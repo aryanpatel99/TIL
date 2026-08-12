@@ -1,0 +1,14 @@
+README.md
+  h_ccbfe03d15f891 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "22e2e3fd4b221e08c43e3fa25362659edc78768c",
+  "prompts": {},
+  "humans": {
+    "h_ccbfe03d15f891": {
+      "author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
