@@ -2,3 +2,4 @@
 14/08/2026 - Explored Aws, Vm
 19/08/2026 - Finished Aws setup, start contri to oss, start an ec2 machine
 25/08/2026 - Learned about bce, went to gym today(day1)
+30/9/2026 - Started Learning Rus
