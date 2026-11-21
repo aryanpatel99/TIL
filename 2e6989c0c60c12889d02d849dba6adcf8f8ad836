@@ -1,0 +1,19 @@
+README.md
+  s_a55c0991114be3::t_b9feb8759f4c17 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2e6989c0c60c12889d02d849dba6adcf8f8ad836",
+  "prompts": {},
+  "sessions": {
+    "s_a55c0991114be3": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "60c15bbf-b7af-47d6-a615-8d03a772d2a8",
+        "model": "unknown"
+      },
+      "human_author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
