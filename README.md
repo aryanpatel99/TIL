@@ -5,3 +5,4 @@
 30/9/2026 - Started Learning Rus
 03/10/2026 - Learned terminal + Neovim/NvChad commands, audited my NvChad config (see terminal-and-nvim-guide.md)
 21/11/2026 - Solved Find Peak Element on LeetCode to keep the daily streak going (earned the 365-day badge yesterday), studied hash tables, maps and sets, and singly and doubly linked lists in depth, worked on the OpenRouter project
+22/11/2026 - Solved a LeetCode problem to keep the streak going, studied caching and memory
